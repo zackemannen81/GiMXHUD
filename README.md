@@ -3,10 +3,10 @@ GIMX manupilation Addon
 Todolist:
 Sandbox enviroment:
 Stage 1:
-	Ubuntu
-	Tensorflow 
-	GiMX USB adapter
-	XBOX One + Model 1537 controller
+        Ubuntu
+        Tensorflow 
+        GiMX USB adapter
+        XBOX One + Model 1537 controller
 	Usb sniffer
 
 Stage 2:
